@@ -1,6 +1,6 @@
 # Rune - A OpenGL game engine
 
-Rune is a 2D/3D game engine being developed in the Odin programming language. 
+Rune is a 2D/3D game engine being developed in the Odin programming language using OpenGL. 
 It started as a personal hobby game engine written in Rust, but I have decided to re-write it in Odin
 
 ### Examples screenshots:
